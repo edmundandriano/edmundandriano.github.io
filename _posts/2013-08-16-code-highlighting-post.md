@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sejarah Barcelona
-excerpt: "Barcelona sebagai klub terkuat saat ini"
+title: Sejarah UIN SUSKA Riau
+excerpt: "UIN SUSKA RIAU adalah universitas ternama di Riau"
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
