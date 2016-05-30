@@ -29,8 +29,8 @@ kramdown:
 owner:
   name: Edmund Andriano
   avatar: profile.png
-  bio: <a href = "http://uin-suska.ac.id">UIN SUSKA RIAU</a><br><a href = "http://sif.uin-suska.ac.id"> Sistem Informasi</a>
-  email: 
+  Universitas: <a href = "http://uin-suska.ac.id">UIN SUSKA RIAU</a><br>
+  Jurusan: <a href = "http://sif.uin-suska.ac.id"> Sistem Informasi</a>
   disqus-shortname: 
   twitter:  #username
   facebook: deactivate.py #username
